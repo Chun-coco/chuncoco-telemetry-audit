@@ -1,37 +1,37 @@
 {
   "schema_version": "1.0.0-eveescout-grade-b",
   "agent": "@chuncoco (Antigravity V9.99 + Gemini Quant V2.2)",
-  "generated_at_utc": "2026-10-31T12:00:02Z",
+  "generated_at_utc": "2026-10-31T13:00:02Z",
   "files": {
     "income_ledger.json": {
-      "sha256": "74713037fc973f2c09ef3daa87452a189149f109523454414391eab045eb2837",
+      "sha256": "2e7de2dc5e176d2265c8342d14bb7fd48b3bb6c7b8dfbe5e8c73e79b4d59b9d4",
       "records": 100
     },
     "user_trades.json": {
-      "sha256": "39d605df1e0770e972f2e9d9af51db30245fd203cfb382af8d6de6267dfe1044",
-      "symbols": 13
+      "sha256": "e107926e7e6d460d12df30b25f05b7aa88e3a31a0716d5a66602d67285ff9ffd",
+      "symbols": 14
     },
     "balance_anchor.json": {
-      "sha256": "40397a8de24bdffabbb0998a7242fbae84530c6026b36604b389b65d6a878d11"
+      "sha256": "fcb06d905816cfe71b41a2446a33d8416709f6636b5f6513df1118a7fa6e7d86"
     },
-    "snapshots/snapshot_20261031_1200.json": {
-      "sha256": "1dabb8f98baf0fb22059e6d6eeecd871881f26ca1770bd929ff4a837af6c1144"
+    "snapshots/snapshot_20261031_1300.json": {
+      "sha256": "bed4e571f969f0eef0e77e1da03e283f1280caf6856355bee7c13bed44fb0efc"
     }
   },
   "reconciliation_summary": {
     "BOT_ALPHA": {
-      "realized_pnl": -0.304799,
-      "commission": -0.548938,
+      "realized_pnl": -0.482829,
+      "commission": -0.59461278,
       "funding_fee": 0.00188923,
-      "net_pnl": -0.85184777,
-      "event_count": 98
+      "net_pnl": -1.07555255,
+      "event_count": 100
     },
     "MANUAL_ADOPTED": {
-      "realized_pnl": 0.11092,
-      "commission": -0.02192056,
+      "realized_pnl": 0.0,
+      "commission": 0.0,
       "funding_fee": 0.0,
-      "net_pnl": 0.08899944,
-      "event_count": 2
+      "net_pnl": 0.0,
+      "event_count": 0
     },
     "CAPITAL_TRANSFER": {
       "total_transfer": 0.0,
@@ -40,11 +40,11 @@
   },
   "usdt_balance_anchor": {
     "asset": "USDT",
-    "balance": "6.21912525",
-    "crossWalletBalance": "6.21912525",
-    "availableBalance": "6.21912525",
-    "maxWithdrawAmount": "6.21912525",
-    "updateTime": 1793447750995
+    "balance": "6.17736344",
+    "crossWalletBalance": "6.17736344",
+    "availableBalance": "6.17736344",
+    "maxWithdrawAmount": "6.17736344",
+    "updateTime": 1793450994458
   },
-  "manifest_root_sha256": "ee72c0917e073d8d6e2a78411a9f95f6f81378379b2357c2865159963568d6f7"
+  "manifest_root_sha256": "3da2ba088e9498a9bf5661c8655fc778da7df4166b80457556c9e4b48106bf7f"
 }

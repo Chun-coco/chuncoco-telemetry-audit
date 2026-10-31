@@ -1,27 +1,27 @@
 {
-  "timestamp_utc": "2026-10-31T12:00:02Z",
+  "timestamp_utc": "2026-10-31T13:00:02Z",
   "usdt_balance": {
     "asset": "USDT",
-    "balance": "6.21912525",
-    "crossWalletBalance": "6.21912525",
-    "availableBalance": "6.21912525",
-    "maxWithdrawAmount": "6.21912525",
-    "updateTime": 1793447750995
+    "balance": "6.17736344",
+    "crossWalletBalance": "6.17736344",
+    "availableBalance": "6.17736344",
+    "maxWithdrawAmount": "6.17736344",
+    "updateTime": 1793450994458
   },
   "reconciliation_summary": {
     "BOT_ALPHA": {
-      "realized_pnl": -0.304799,
-      "commission": -0.548938,
+      "realized_pnl": -0.482829,
+      "commission": -0.59461278,
       "funding_fee": 0.00188923,
-      "net_pnl": -0.85184777,
-      "event_count": 98
+      "net_pnl": -1.07555255,
+      "event_count": 100
     },
     "MANUAL_ADOPTED": {
-      "realized_pnl": 0.11092,
-      "commission": -0.02192056,
+      "realized_pnl": 0.0,
+      "commission": 0.0,
       "funding_fee": 0.0,
-      "net_pnl": 0.08899944,
-      "event_count": 2
+      "net_pnl": 0.0,
+      "event_count": 0
     },
     "CAPITAL_TRANSFER": {
       "total_transfer": 0.0,
