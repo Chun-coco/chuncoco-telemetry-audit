@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0-eveescout-grade-b",
   "agent": "@chuncoco (Antigravity V9.99 + Gemini Quant V2.2)",
-  "generated_at_utc": "2026-10-31T10:12:47Z",
+  "generated_at_utc": "2026-10-31T11:00:02Z",
   "files": {
     "income_ledger.json": {
       "sha256": "168854fc524bdffef551bce744fe48517b003e040803d42520f2c0761b085edd",
@@ -12,10 +12,10 @@
       "symbols": 13
     },
     "balance_anchor.json": {
-      "sha256": "cb1975ec34499f602e4a0e70033c055647722c47b2cfcc7b22b6a27987446c4c"
+      "sha256": "2a654257c8e1dce13f58c60cfaabfcd188ff9f9d9dcdbcbbe213eb96fea3783c"
     },
-    "snapshots/snapshot_20261031_1012.json": {
-      "sha256": "29ae373c96e92b80352f707748c6c6f58521ecc4ca27bd8a4aa89ff0abc25700"
+    "snapshots/snapshot_20261031_1100.json": {
+      "sha256": "5ba190ad83cfd591e50c68d3c15f4447c56900f07d47769cb5c0e918360b4a91"
     }
   },
   "reconciliation_summary": {
@@ -46,5 +46,5 @@
     "maxWithdrawAmount": "4.57328080",
     "updateTime": 1793441374721
   },
-  "manifest_root_sha256": "556d2efbaa3aea81c98703ef67b062dda536c08d360f8ecadc1496b4a56e9893"
+  "manifest_root_sha256": "d08e9084d5849e547c91257a65a845304ae547f602435b5dc1dccee0b3f883af"
 }
