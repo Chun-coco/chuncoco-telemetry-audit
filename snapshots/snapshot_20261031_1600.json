@@ -1,0 +1,47 @@
+{
+  "timestamp_utc": "2026-10-31T16:00:01Z",
+  "usdt_balance": {
+    "asset": "USDT",
+    "balance": "6.26117455",
+    "crossWalletBalance": "6.26117455",
+    "availableBalance": "6.26117455",
+    "maxWithdrawAmount": "6.26117455",
+    "updateTime": 1793461326657
+  },
+  "reconciliation_summary": {
+    "BOT_ALPHA": {
+      "realized_pnl": 0.37622003,
+      "commission": -0.52035201,
+      "funding_fee": 0.0,
+      "net_pnl": -0.14413198,
+      "event_count": 100
+    },
+    "MANUAL_ADOPTED": {
+      "realized_pnl": 0.0,
+      "commission": 0.0,
+      "funding_fee": 0.0,
+      "net_pnl": 0.0,
+      "event_count": 0
+    },
+    "CAPITAL_TRANSFER": {
+      "total_transfer": 0.0,
+      "event_count": 0
+    }
+  },
+  "income_count": 100,
+  "symbols_traded": [
+    "AAVEUSDT",
+    "BIRBUSDT",
+    "DASHUSDT",
+    "INITUSDT",
+    "MAGMAUSDT",
+    "NEARUSDT",
+    "QNTUSDT",
+    "TIAUSDT",
+    "USELESSUSDT",
+    "WLDUSDT",
+    "XMRUSDT",
+    "XPLUSDT",
+    "ZECUSDT"
+  ]
+}
