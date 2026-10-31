@@ -3673,6 +3673,25 @@
       "positionSide": "BOTH",
       "baseQty": "0",
       "marginAsset": "USDT"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "id": 1757937313,
+      "orderId": 812613650021,
+      "pair": "ZECUSDT",
+      "side": "BUY",
+      "price": "1283.52",
+      "qty": "0.028",
+      "realizedPnl": "0",
+      "quoteQty": "35.93856",
+      "commission": "0.01796928",
+      "commissionAsset": "USDT",
+      "time": 1793452920454,
+      "buyer": true,
+      "maker": false,
+      "positionSide": "BOTH",
+      "baseQty": "0",
+      "marginAsset": "USDT"
     }
   ]
 }

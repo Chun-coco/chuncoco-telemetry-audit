@@ -1,17 +1,6 @@
 [
   {
     "symbol": "UNIUSDT",
-    "incomeType": "COMMISSION",
-    "income": "-0.02096400",
-    "asset": "USDT",
-    "time": 1793428536068,
-    "info": "941216606",
-    "tranId": 91150941216606,
-    "tradeId": "941216606",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "UNIUSDT",
     "incomeType": "REALIZED_PNL",
     "income": "-0.15000000",
     "asset": "USDT",
@@ -1097,6 +1086,17 @@
     "info": "94689001",
     "tranId": 10454194689001,
     "tradeId": "94689001",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.01796928",
+    "asset": "USDT",
+    "time": 1793452920454,
+    "info": "1757937313",
+    "tranId": 903011757937313,
+    "tradeId": "1757937313",
     "audit_category": "BOT_ALPHA"
   }
 ]
