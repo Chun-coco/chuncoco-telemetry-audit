@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0-eveescout-grade-b",
+  "agent": "@chuncoco (Antigravity V9.99 + Gemini Quant V2.2)",
+  "generated_at_utc": "2026-10-31T08:24:06Z",
+  "files": {
+    "income_ledger.json": {
+      "sha256": "6bce5147c6f2559e257e569921744e3855690db7dcffef95e0588703d3995d4e",
+      "records": 100
+    },
+    "user_trades.json": {
+      "sha256": "f9fa247162289b307120673249b27e3e8a4b733f803801bb302c0006bda03833",
+      "symbols": 12
+    },
+    "balance_anchor.json": {
+      "sha256": "408c88528facdcd507a4ad30015a9cd45f5faff10e5d2e598aa89160a4a71371"
+    },
+    "snapshots/snapshot_20261031_0824.json": {
+      "sha256": "f58281fa7d75bc1d014bb13f8c05fa077f8644773f794b60cfc4c83e82a069b6"
+    }
+  },
+  "reconciliation_summary": {
+    "BOT_ALPHA": {
+      "realized_pnl": -0.086119,
+      "commission": -0.44564056,
+      "funding_fee": 0.00188923,
+      "net_pnl": -0.52987033,
+      "event_count": 96
+    },
+    "MANUAL_ADOPTED": {
+      "realized_pnl": 0.11092,
+      "commission": -0.04378566,
+      "funding_fee": 0.0,
+      "net_pnl": 0.06713434,
+      "event_count": 3
+    },
+    "CAPITAL_TRANSFER": {
+      "total_transfer": 1.08594462,
+      "event_count": 1
+    }
+  },
+  "usdt_balance_anchor": {
+    "asset": "USDT",
+    "balance": "6.46061371",
+    "crossWalletBalance": "6.46061371",
+    "availableBalance": "6.46061371",
+    "maxWithdrawAmount": "6.46061371",
+    "updateTime": 1793434396869
+  },
+  "manifest_root_sha256": "a8201f31b520b0247dc13fc05f1be3198c21836684832fc9e699fc5b0050fa1b"
+}
