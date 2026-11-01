@@ -2,94 +2,6 @@
   {
     "symbol": "BIRBUSDT",
     "incomeType": "COMMISSION",
-    "income": "-0.00222600",
-    "asset": "USDT",
-    "time": 1793509548432,
-    "info": "95045770",
-    "tranId": 10454195045770,
-    "tradeId": "95045770",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "BIRBUSDT",
-    "incomeType": "REALIZED_PNL",
-    "income": "0.20236919",
-    "asset": "USDT",
-    "time": 1793509548432,
-    "info": "95045771",
-    "tranId": 10454195045771,
-    "tradeId": "95045771",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "BIRBUSDT",
-    "incomeType": "COMMISSION",
-    "income": "-0.03529800",
-    "asset": "USDT",
-    "time": 1793509548432,
-    "info": "95045771",
-    "tranId": 10454195045771,
-    "tradeId": "95045771",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "BIRBUSDT",
-    "incomeType": "REALIZED_PNL",
-    "income": "0.07133058",
-    "asset": "USDT",
-    "time": 1793509548432,
-    "info": "95045772",
-    "tranId": 10454195045772,
-    "tradeId": "95045772",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "BIRBUSDT",
-    "incomeType": "COMMISSION",
-    "income": "-0.01244175",
-    "asset": "USDT",
-    "time": 1793509548432,
-    "info": "95045772",
-    "tranId": 10454195045772,
-    "tradeId": "95045772",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "BIRBUSDT",
-    "incomeType": "REALIZED_PNL",
-    "income": "0.07543266",
-    "asset": "USDT",
-    "time": 1793509548432,
-    "info": "95045773",
-    "tranId": 10454195045773,
-    "tradeId": "95045773",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "BIRBUSDT",
-    "incomeType": "COMMISSION",
-    "income": "-0.01315725",
-    "asset": "USDT",
-    "time": 1793509548432,
-    "info": "95045773",
-    "tranId": 10454195045773,
-    "tradeId": "95045773",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "BIRBUSDT",
-    "incomeType": "REALIZED_PNL",
-    "income": "0.03942553",
-    "asset": "USDT",
-    "time": 1793509548432,
-    "info": "95045774",
-    "tranId": 10454195045774,
-    "tradeId": "95045774",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "BIRBUSDT",
-    "incomeType": "COMMISSION",
     "income": "-0.00687675",
     "asset": "USDT",
     "time": 1793509548432,
@@ -1097,6 +1009,94 @@
     "info": "258421361",
     "tranId": 93951258421361,
     "tradeId": "258421361",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "QUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.00904522",
+    "asset": "USDT",
+    "time": 1793537919264,
+    "info": "296190672",
+    "tranId": 102440296190672,
+    "tradeId": "296190672",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "QUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.01465500",
+    "asset": "USDT",
+    "time": 1793537919264,
+    "info": "296190673",
+    "tranId": 102440296190673,
+    "tradeId": "296190673",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "QUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.00263790",
+    "asset": "USDT",
+    "time": 1793537919264,
+    "info": "296190674",
+    "tranId": 102440296190674,
+    "tradeId": "296190674",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "QUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.00257928",
+    "asset": "USDT",
+    "time": 1793537919264,
+    "info": "296190675",
+    "tranId": 102440296190675,
+    "tradeId": "296190675",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "QUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.00278445",
+    "asset": "USDT",
+    "time": 1793537919264,
+    "info": "296190676",
+    "tranId": 102440296190676,
+    "tradeId": "296190676",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "QUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.03452717",
+    "asset": "USDT",
+    "time": 1793537919264,
+    "info": "296190677",
+    "tranId": 102440296190677,
+    "tradeId": "296190677",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "QUSDT",
+    "incomeType": "REALIZED_PNL",
+    "income": "0.09654999",
+    "asset": "USDT",
+    "time": 1793538000250,
+    "info": "296191277",
+    "tranId": 102441296191277,
+    "tradeId": "296191277",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "QUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.06618075",
+    "asset": "USDT",
+    "time": 1793538000250,
+    "info": "296191277",
+    "tranId": 102441296191277,
+    "tradeId": "296191277",
     "audit_category": "BOT_ALPHA"
   }
 ]
