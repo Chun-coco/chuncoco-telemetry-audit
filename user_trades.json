@@ -839,6 +839,25 @@
       "positionSide": "BOTH",
       "baseQty": "0",
       "marginAsset": "USDT"
+    },
+    {
+      "symbol": "FILUSDT",
+      "id": 1046603331,
+      "orderId": 39867334563,
+      "pair": "FILUSDT",
+      "side": "BUY",
+      "price": "0.872100",
+      "qty": "213",
+      "realizedPnl": "0.89460000",
+      "quoteQty": "185.7573000",
+      "commission": "0.09287865",
+      "commissionAsset": "USDT",
+      "time": 1793567600719,
+      "buyer": true,
+      "maker": false,
+      "positionSide": "BOTH",
+      "baseQty": "0",
+      "marginAsset": "USDT"
     }
   ],
   "LSKUSDT": [
