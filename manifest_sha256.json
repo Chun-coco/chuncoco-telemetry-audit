@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0-eveescout-grade-b",
   "agent": "@chuncoco (Antigravity V9.99 + Gemini Quant V2.2)",
-  "generated_at_utc": "2026-11-01T14:00:02Z",
+  "generated_at_utc": "2026-11-01T15:00:02Z",
   "files": {
     "income_ledger.json": {
-      "sha256": "86b278f2b5794117f9b107e1a00e621a37fde7b7039266e9bb42164981d239d7",
+      "sha256": "bd85352c2bb6f6e522bffeaed276d93fee3553760b76c3bf14f40ab14aa03c0d",
       "records": 100
     },
     "user_trades.json": {
-      "sha256": "02dc4b6d506d58de2ab049413829c245d44fdcac733d05c2ca6fe356fd79be7a",
+      "sha256": "be4f5564917dab5781d732e4799a9ef323d16533632815ea5c5cae0052201508",
       "symbols": 8
     },
     "balance_anchor.json": {
-      "sha256": "87117641753e4e9e748401c1fcf29bd566dfcbc82f4e98bf5320b8d822d97d37"
+      "sha256": "21debd6302ea357f1463a9e9481b7f995a60b6cd03f16cb9f04f2ae3b2b9ac33"
     },
-    "snapshots/snapshot_20261101_1400.json": {
-      "sha256": "920a963e84b773bb0ec5d4db344ee054c722967e6f129c7624a7ea9cafe07fef"
+    "snapshots/snapshot_20261101_1500.json": {
+      "sha256": "cb2fe3618a977a7b8ab3bfb04f221909d14101090716f28b092c47a20c551ab8"
     }
   },
   "reconciliation_summary": {
     "BOT_ALPHA": {
-      "realized_pnl": -0.71527002,
-      "commission": -0.9248702,
+      "realized_pnl": -1.21177002,
+      "commission": -1.03686071,
       "funding_fee": 0.0,
-      "net_pnl": -1.64014022,
+      "net_pnl": -2.24863073,
       "event_count": 100
     },
     "MANUAL_ADOPTED": {
@@ -40,11 +40,11 @@
   },
   "usdt_balance_anchor": {
     "asset": "USDT",
-    "balance": "22.05464050",
-    "crossWalletBalance": "22.05464050",
-    "availableBalance": "22.05464050",
-    "maxWithdrawAmount": "22.05464050",
-    "updateTime": 1793538000251
+    "balance": "21.42595565",
+    "crossWalletBalance": "21.42595565",
+    "availableBalance": "21.42595565",
+    "maxWithdrawAmount": "21.42595565",
+    "updateTime": 1793542718053
   },
-  "manifest_root_sha256": "017af51d3db6bbcab7bc910eccc701b66a236665c4770c8487d424f8e75b16d9"
+  "manifest_root_sha256": "be31d4a7b1292eabeaf535ba082475c3a8de65e1fbca1614686a29e284d00b76"
 }
