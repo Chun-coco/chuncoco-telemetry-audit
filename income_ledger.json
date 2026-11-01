@@ -1,16 +1,5 @@
 [
   {
-    "symbol": "AAVEUSDT",
-    "incomeType": "COMMISSION",
-    "income": "-0.06272999",
-    "asset": "USDT",
-    "time": 1793514062749,
-    "info": "1009251895",
-    "tranId": 913501009251895,
-    "tradeId": "1009251895",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
     "symbol": "ZECUSDT",
     "incomeType": "COMMISSION",
     "income": "-0.07199250",
@@ -1097,6 +1086,17 @@
     "info": "1046603331",
     "tranId": 913711046603331,
     "tradeId": "1046603331",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "FILUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.03708501",
+    "asset": "USDT",
+    "time": 1793573575058,
+    "info": "1046619473",
+    "tranId": 913701046619473,
+    "tradeId": "1046619473",
     "audit_category": "BOT_ALPHA"
   }
 ]
