@@ -1,29 +1,29 @@
 {
   "schema_version": "1.0.0-eveescout-grade-b",
   "agent": "@chuncoco (Antigravity V9.99 + Gemini Quant V2.2)",
-  "generated_at_utc": "2026-11-01T02:00:02Z",
+  "generated_at_utc": "2026-11-01T03:00:02Z",
   "files": {
     "income_ledger.json": {
-      "sha256": "345f1315f76885d5ea39cc50ba6f18e731b183447cfe097881372c1dcd7c8a02",
+      "sha256": "6a895a624f32879eb3c6db4cf0f0342a15f5559b314ad1b41198eaf12b665c97",
       "records": 100
     },
     "user_trades.json": {
-      "sha256": "9ec821a50183d33c9b356131ed0304084c7a7b85b159fcb068cda53a4fd28c54",
+      "sha256": "994d827114accb946cb771297ebfd04e51a998b346ccef0aefb8b98cdc8d972d",
       "symbols": 10
     },
     "balance_anchor.json": {
-      "sha256": "401c826518aff002403eabdf9771ffd818d936abb7032be1fa21766e922f723b"
+      "sha256": "15e98d6966e9063552f5c68e8835be632968af6c486a1c8bf3ed0fde02ffb73b"
     },
-    "snapshots/snapshot_20261101_0200.json": {
-      "sha256": "131ed7c1cbf325240915b0d898e551867cece3dfa5c3208fd2d4117a1f541816"
+    "snapshots/snapshot_20261101_0300.json": {
+      "sha256": "3e925dc2af4fb2426972ea3dfe53415c0f06eda3f566641411a9e3f6fefa2436"
     }
   },
   "reconciliation_summary": {
     "BOT_ALPHA": {
       "realized_pnl": -0.71573895,
-      "commission": -0.73618073,
+      "commission": -0.78793768,
       "funding_fee": -0.0064438,
-      "net_pnl": -1.45836348,
+      "net_pnl": -1.51012043,
       "event_count": 99
     },
     "MANUAL_ADOPTED": {
@@ -40,11 +40,11 @@
   },
   "usdt_balance_anchor": {
     "asset": "USDT",
-    "balance": "23.20713260",
-    "crossWalletBalance": "23.20713260",
-    "availableBalance": "23.20713260",
-    "maxWithdrawAmount": "23.20713260",
-    "updateTime": 1793496362902
+    "balance": "23.13935010",
+    "crossWalletBalance": "16.40988260",
+    "availableBalance": "16.40988260",
+    "maxWithdrawAmount": "16.40988260",
+    "updateTime": 1793501174673
   },
-  "manifest_root_sha256": "962d4fb9ed966b3d2921d7c2a2220ce2bbecafa27359c9ecf2ebdd94f936f3ee"
+  "manifest_root_sha256": "3dc62d7447a3dd2516965dec1c8d5775eddcaed3f512ae5e14d14e6b70941d63"
 }
