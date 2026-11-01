@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0.0-eveescout-grade-b",
   "agent": "@chuncoco (Antigravity V9.99 + Gemini Quant V2.2)",
-  "generated_at_utc": "2026-11-01T00:00:02Z",
+  "generated_at_utc": "2026-11-01T01:00:02Z",
   "files": {
     "income_ledger.json": {
-      "sha256": "10efc969cb72a3319eab991920e54902070d56f922c761a1c9247bc9cf2290a9",
+      "sha256": "72caaba422f8eff72ce11bf0c4c1d1c8114a9ac25dfc3c01595407839bd297c9",
       "records": 100
     },
     "user_trades.json": {
@@ -12,18 +12,18 @@
       "symbols": 16
     },
     "balance_anchor.json": {
-      "sha256": "eec56f50113e8b17c699bad27bc3d03647a81c7eb0fd793532ccdee6a9836573"
+      "sha256": "d347f448518763a41793bfac31df48068daaa5f2e0a1aaaf4038203265b17d13"
     },
-    "snapshots/snapshot_20261101_0000.json": {
-      "sha256": "d6462079136f882acc309c516aa19e1043d22a267aa0b09083367e9eb1441a07"
+    "snapshots/snapshot_20261101_0100.json": {
+      "sha256": "d6d8603aba1410beef7f87f0477caf4753e35a5a0b9492591ae4790445103d58"
     }
   },
   "reconciliation_summary": {
     "BOT_ALPHA": {
-      "realized_pnl": -0.83834199,
-      "commission": -0.69165579,
-      "funding_fee": 0.0,
-      "net_pnl": -1.52999778,
+      "realized_pnl": -1.01326199,
+      "commission": -0.75104498,
+      "funding_fee": -0.0064438,
+      "net_pnl": -1.77075077,
       "event_count": 99
     },
     "MANUAL_ADOPTED": {
@@ -40,11 +40,11 @@
   },
   "usdt_balance_anchor": {
     "asset": "USDT",
-    "balance": "23.82710949",
-    "crossWalletBalance": "16.76233993",
-    "availableBalance": "16.76233993",
-    "maxWithdrawAmount": "16.76233993",
-    "updateTime": 1793491200367
+    "balance": "23.63830155",
+    "crossWalletBalance": "23.63830155",
+    "availableBalance": "23.63830155",
+    "maxWithdrawAmount": "23.63830155",
+    "updateTime": 1793491651537
   },
-  "manifest_root_sha256": "582183e3ae817718090b6194ce9b399166e39b87ef2daeea430f96fdc61b1c9a"
+  "manifest_root_sha256": "aeacf7c64e52f04271a4b258bdd309e0cb7a0bccb69bd20c3ca9d45dd72403dc"
 }

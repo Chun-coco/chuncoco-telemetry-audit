@@ -1,39 +1,6 @@
 [
   {
     "symbol": "TIAUSDT",
-    "incomeType": "COMMISSION",
-    "income": "-0.00598500",
-    "asset": "USDT",
-    "time": 1793459006767,
-    "info": "878060466",
-    "tranId": 95571878060466,
-    "tradeId": "878060466",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "TIAUSDT",
-    "incomeType": "REALIZED_PNL",
-    "income": "0.05750000",
-    "asset": "USDT",
-    "time": 1793459821235,
-    "info": "878062594",
-    "tranId": 95570878062594,
-    "tradeId": "878062594",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "TIAUSDT",
-    "incomeType": "COMMISSION",
-    "income": "-0.00601375",
-    "asset": "USDT",
-    "time": 1793459821235,
-    "info": "878062594",
-    "tranId": 95570878062594,
-    "tradeId": "878062594",
-    "audit_category": "BOT_ALPHA"
-  },
-  {
-    "symbol": "TIAUSDT",
     "incomeType": "REALIZED_PNL",
     "income": "0.01150000",
     "asset": "USDT",
@@ -1097,6 +1064,39 @@
     "info": "1758966728",
     "tranId": 903001758966728,
     "tradeId": "1758966728",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "incomeType": "FUNDING_FEE",
+    "income": "-0.00644380",
+    "asset": "USDT",
+    "time": 1793491200367,
+    "info": "FUNDING_FEE",
+    "tranId": 1690632559668105870,
+    "tradeId": "",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "incomeType": "REALIZED_PNL",
+    "income": "-0.11742000",
+    "asset": "USDT",
+    "time": 1793491651537,
+    "info": "1758983277",
+    "tranId": 903011758983277,
+    "tradeId": "1758983277",
+    "audit_category": "BOT_ALPHA"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "incomeType": "COMMISSION",
+    "income": "-0.07138794",
+    "asset": "USDT",
+    "time": 1793491651537,
+    "info": "1758983277",
+    "tranId": 903011758983277,
+    "tradeId": "1758983277",
     "audit_category": "BOT_ALPHA"
   }
 ]
