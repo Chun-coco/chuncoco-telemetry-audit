@@ -1,11 +1,11 @@
 {
-  "timestamp_utc": "2026-11-02T16:00:02Z",
+  "timestamp_utc": "2026-11-02T17:00:02Z",
   "usdt_balance": {
     "asset": "USDT",
     "balance": "6.76110729",
     "crossWalletBalance": "6.76110729",
-    "availableBalance": "6.76110729",
-    "maxWithdrawAmount": "6.76110729",
+    "availableBalance": "3.68681229",
+    "maxWithdrawAmount": "3.68681229",
     "updateTime": 1793591417644
   },
   "reconciliation_summary": {

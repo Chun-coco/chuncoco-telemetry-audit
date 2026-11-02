@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0-eveescout-grade-b",
   "agent": "@chuncoco (Antigravity V9.99 + Gemini Quant V2.2)",
-  "generated_at_utc": "2026-11-02T16:00:02Z",
+  "generated_at_utc": "2026-11-02T17:00:02Z",
   "files": {
     "income_ledger.json": {
       "sha256": "efc831a28ee67698a6c9d300ee9b1575dfd3a7adf649bfffe8407080dbca8d0b",
@@ -12,10 +12,10 @@
       "symbols": 9
     },
     "balance_anchor.json": {
-      "sha256": "dcf19c2e1aa9b789d2dcb537b2966a7a8b0228efb048fbc144137de347f128d1"
+      "sha256": "308a08c01f56489b0b6d493672296a6af349bd01df1f0bc52045e58af115eece"
     },
-    "snapshots/snapshot_20261102_1600.json": {
-      "sha256": "2eb2fb26c119700ae5d88a0ff7f07599e106c8e7dde965cbde6a3f3fda5169eb"
+    "snapshots/snapshot_20261102_1700.json": {
+      "sha256": "8117f97e20cb163fd23603cf3fcbe43c04d46b1d01f1bbefa0df51b1b6431b3a"
     }
   },
   "reconciliation_summary": {
@@ -42,9 +42,9 @@
     "asset": "USDT",
     "balance": "6.76110729",
     "crossWalletBalance": "6.76110729",
-    "availableBalance": "6.76110729",
-    "maxWithdrawAmount": "6.76110729",
+    "availableBalance": "3.68681229",
+    "maxWithdrawAmount": "3.68681229",
     "updateTime": 1793591417644
   },
-  "manifest_root_sha256": "86b77fcd30dfbe02c7a3fdb1457f41231e8bcffc81eb943583070d5767265682"
+  "manifest_root_sha256": "d73614954e2d03a6044c40365ef0013e51ef7d5068c0040ceb01609a27f6b764"
 }
