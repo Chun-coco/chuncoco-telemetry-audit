@@ -1090,6 +1090,46 @@
       "marginAsset": "USDT"
     }
   ],
+  "OGNUSDT": [
+    {
+      "symbol": "OGNUSDT",
+      "id": 292110538,
+      "orderId": 7478123973,
+      "pair": "OGNUSDT",
+      "side": "SELL",
+      "price": "0.0261700",
+      "qty": "296",
+      "realizedPnl": "0",
+      "quoteQty": "7.7463200",
+      "commission": "0.00387316",
+      "commissionAsset": "USDT",
+      "time": 1793645055778,
+      "buyer": false,
+      "maker": false,
+      "positionSide": "BOTH",
+      "baseQty": "0",
+      "marginAsset": "USDT"
+    },
+    {
+      "symbol": "OGNUSDT",
+      "id": 292110539,
+      "orderId": 7478123973,
+      "pair": "OGNUSDT",
+      "side": "SELL",
+      "price": "0.0261700",
+      "qty": "1499",
+      "realizedPnl": "0",
+      "quoteQty": "39.2288300",
+      "commission": "0.01961441",
+      "commissionAsset": "USDT",
+      "time": 1793645055778,
+      "buyer": false,
+      "maker": false,
+      "positionSide": "BOTH",
+      "baseQty": "0",
+      "marginAsset": "USDT"
+    }
+  ],
   "OPUSDT": [
     {
       "symbol": "OPUSDT",
