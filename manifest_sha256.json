@@ -46,5 +46,6 @@
     "maxWithdrawAmount": "9.35511688",
     "updateTime": 1793648899442
   },
-  "manifest_root_sha256": "155f44e0675e80da4cd654b1d09a327c3b2d72d0243c8d4ac23b204dea27d6fd"
+  "manifest_root_sha256": "155f44e0675e80da4cd654b1d09a327c3b2d72d0243c8d4ac23b204dea27d6fd",
+  "git_commit_sha": "3dd7f1f9d6224da4252c2526c3b420c2f352337b"
 }
